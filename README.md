@@ -24,3 +24,4 @@ La aplicación responderá con un mensaje de éxito si el registro es exitoso, o
 Nota
 
 Este es un ejemplo básico y no incluye persistencia de datos ni manejo de errores. Está destinado solo para fines educativos.
+Usar npm install para instalar los paquetes necesarios
