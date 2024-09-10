@@ -1,4 +1,5 @@
 Modelo-Vista-Controlador
+
 Esta es una aplicación básica de Node.js que utiliza la arquitectura Modelo-Vista-Controlador (MVC).
 
 Archivos
