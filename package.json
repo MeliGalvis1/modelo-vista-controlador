@@ -1,0 +1,14 @@
+{
+  "name": "modelo-vista-controlador",
+  "version": "1.0.0",
+  "description": "Ejemplo basico de modelo-vista-controlador",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Melissa Galvis M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.20.0"
+  }
+}
